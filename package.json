@@ -1,0 +1,15 @@
+{
+  "name": "clean-code-commit-messages",
+  "version": "1.0.0",
+  "description": "A command-line tool that enforces clean and meaningful commit message conventions for Git repositories.",
+  "main": "clean-code-commit-messages.js",
+  "bin": {
+    "clean-code-commit-messages": "clean-code-commit-messages.js"
+  },
+  "scripts": {
+    "test": "echo 'No tests yet' && exit 0"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {}
+}
