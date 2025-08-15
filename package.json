@@ -7,7 +7,7 @@
     "clean-code-commit-messages": "clean-code-commit-messages.js"
   },
   "scripts": {
-    "test": "echo 'No tests yet' && exit 0"
+    "test": "echo 'No tests yet' && exit 0" // Placeholder for future tests
   },
   "author": "Your Name",
   "license": "MIT",
