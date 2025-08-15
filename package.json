@@ -11,5 +11,9 @@
   },
   "author": "Your Name",
   "license": "MIT",
-  "dependencies": {}
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/clean-code-commit-messages.git"
+  }
 }
